@@ -5,7 +5,7 @@ tags: galeria
 status: not-started
 hero_image: attachments/logo.nestor.png
 hero_title: Brincar é Natural
-hero_subtitle: Carrinhos de Madeira
+hero_subtitle: Brinquedos para todos
 hero_height: 100vh
 hero_overlay: 0.3
 hero_align: center
