@@ -15,7 +15,7 @@ group_name: ""
 group_number: ""
 ---
 
-# Nome do Grupo
+# Brincar é Natural
 
 > Substituam este parágrafo por uma frase de apresentação do grupo (uma linha, conceptualmente forte). A imagem de capa acima (`attachments/hero.jpg`) deve ser uma **fotografia de conjunto** dos trabalhos do grupo, mais conceptual, que espelhe a estratégia coletiva.
 
@@ -54,7 +54,7 @@ Resumo, referências coletivas e moodboard do grupo encontram-se em [contexto.md
 
   <!-- duplicar o bloco abaixo para cada produto do grupo -->
 
-  <a class="gallery-card" href="produto/_2024268-Karina Aguilar/">
+  <a class="gallery-card" href="produtos/_2024268-Karina Aguilar/">
     <img src="produtos/_modelo/attachments/hero.jpg" alt="" />
     <h3>Nome do Produto</h3>
     <p>Karina Aguilar</p>
