@@ -1,16 +1,16 @@
 ---
-title: "Nome do Grupo"
+title: Brincar é Natural
 icon: lucide/users
 tags: galeria
 status: not-started
-hero_image: attachments/hero.jpg
-hero_title: "Pó Pó"
-hero_subtitle: "Carrinhos de Madeira"
+hero_image: attachments/logo.nestor.png
+hero_title: Brincar é Natural
+hero_subtitle: Carrinhos de Madeira
 hero_height: 100vh
 hero_overlay: 0.3
 hero_align: center
 published: true
-course: "DesignDeProdutoIV"
+course: DesignDeProdutoIV
 group_name: ""
 group_number: ""
 ---
@@ -21,11 +21,12 @@ group_number: ""
 
 ## Elementos do Grupo
 
-| Número  | Nome    |
-| ------- | ------- |
-| 20XXXXX | Aluno A |
-| 20YYYYY | Aluno B |
-| 20ZZZZZ | Aluno C |
+| Número  | Nome             |
+| ------- | ---------------- |
+| 2024268 | Karina Aguilar   |
+| 2024572 | Sebastião Abreu  |
+| 2024301 | Mariana Rocha    |
+| 2024299 | Adrielly Saraiva |
 
 ---
 
@@ -47,16 +48,33 @@ Resumo, referências coletivas e moodboard do grupo encontram-se em [contexto.md
      Cada produto vive em produtos/<numero>-<nome>/index.md
      e tem uma sub-página produtos/<numero>-<nome>/processo.md -->
 
-<!-- markdownlint-disable MD033 -->
+<!-- markdownlint-disable MD033 --> 
+
 <div class="gallery-grid">
 
   <!-- duplicar o bloco abaixo para cada produto do grupo -->
 
+  <a class="gallery-card" href="produto/_2024268-Karina Aguilar/">
+    <img src="produtos/_modelo/attachments/hero.jpg" alt="" />
+    <h3>Nome do Produto</h3>
+    <p>Karina Aguilar</p>
+  </a>
+    <a class="gallery-card" href="produtos/_modelo/">
+    <img src="produtos/_modelo/attachments/hero.jpg" alt="" />
+    <h3>Nome do Produto</h3>
+    <p>Sebastião Abreu</p>
+  </a>
   <a class="gallery-card" href="produtos/_modelo/">
     <img src="produtos/_modelo/attachments/hero.jpg" alt="" />
     <h3>Nome do Produto</h3>
-    <p>Nome do Aluno</p>
+    <p>Mariana Rocha</p>
   </a>
+  <a class="gallery-card" href="produtos/_modelo/">
+    <img src="produtos/_modelo/attachments/hero.jpg" alt="" />
+    <h3>Nome do Produto</h3>
+    <p>Adrielly Silva</p>
+  </a>
+ 
 
   <!-- duplicar o bloco acima para cada produto do grupo  e substituir _modelo em ambas por <numero>-<nome> -->
 
