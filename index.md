@@ -56,7 +56,7 @@ Resumo, referências coletivas e moodboard do grupo encontram-se em [contexto.md
 
   <a class="gallery-card" href="produtos/_2024268-Karina Aguilar/">
     <img src="produtos/_modelo/attachments/hero.jpg" alt="" />
-    <h3>Nome do Produto</h3>
+    <h3>Libi</h3>
     <p>Karina Aguilar</p>
   </a>
     <a class="gallery-card" href="produtos/_modelo/">
