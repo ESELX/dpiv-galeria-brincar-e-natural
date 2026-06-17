@@ -33,7 +33,7 @@ O brinquedo tem como publico-alvo crianças com idade escolar (a partir dos 6 an
 Porquê Libi?
 - Responde diretamente à pegada ecológica da indústria do mobiliário, a sua forma única (monobloco) e pequena ajuda a otimizar ainda mais o desperdício em placas já usadas;
 - Contraria os estímulos rápidos digitais através de uma experiência mais tátil, onde o erro faz parte do processo de aprendizagem e o sucesso exige desaceleração e controlo motor;
-- 
+- Mostra que a geometria orgânica inspirada na natureza pode gerar estabilidade estrutural complexa através de regras físicas simples.
 
 ![](attachments/placeholder.png)
 
