@@ -22,7 +22,7 @@ student_number: ""
   /Recursos/AI_exps/). Usa attachments/hero.jpg para o frontmatter.
 -->
 
-> Um sistema de libelinhas monobloco paramétricas que desafia a atenção e a concentração através do equilíbrio gravítico passivo e de livre recombinação.
+> Um sistema de libelinhas monobloco paramétricas que desafia a atenção e a concentração através do equilíbrio gravítico passivo e de livre recombinação. aaaaaaaa
 
 ## Conceito
 
