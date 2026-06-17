@@ -18,15 +18,15 @@ published: true
 
 ## 1. Protótipo(s)
 
-![[proto1.jpg]]
+Fotografias em estúdio com fundo branco do(s) protótipo(s) final(is).
 
-![[proto2 1.jpg]]
+![Protótipo final](attachments/proto1.jpg)
+![](attachments/proto2.jpg)
+![Protótipo final](attachments/proto3.jpg)
+![Protótipo final](attachments/proto4.jpg)
+![Protótipo final](attachments/proto5.jpg)
 
-![[proto3 1.jpg]]
 
-![[proto4.jpg]]
-
-![[proto5.jpg]]
 
 ## 2. Processo de Prototipagem
 
