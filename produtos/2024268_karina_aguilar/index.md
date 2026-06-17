@@ -1,5 +1,5 @@
 ---
-title: Libi
+title: index
 icon: lucide/box
 tags: galeria
 status: not-started
