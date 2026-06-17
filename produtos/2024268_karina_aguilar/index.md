@@ -108,8 +108,9 @@ Para garantir que o projeto é viável no mercado europeu, o design cumpre os re
 
 ![](attachments/prancharesumo.png)
 
+
 ![](attachments/ooooo%203.jpg)
-hero
+
 
 
 ---
