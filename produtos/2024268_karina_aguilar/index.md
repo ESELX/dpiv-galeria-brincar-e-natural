@@ -26,11 +26,13 @@ student_number: ""
 
 ## Conceito
 
+O que é?
 Libi, um brinquedo modular de empilhamento vertical e horizontal, fabricado através de corte CNC a partir do reaproveitamento de excedentes industriais de madeira. O seu design dispensa propositadamente de encaixes mecânicos fixos e complicados, dependendo do atrito superficial e do cálculo empírico do centro de massa por parte da criança ou de qualquer outro utilizador. (E claro, do empenho, cuidado e foco que o mesmo dá a brincadeira!) 
 
-O brinquedo tem como publico-alvo crianças com idade escolar (a partir dos 6 anos) e todos os jovens e adultos interessados num objeto potencialmente anti-stress e/ou que ajude a trabalhar a concentração.
+Para quem?
+Libi tem como publico-alvo crianças com idade escolar (a partir dos 5 anos) e todos os jovens e adultos interessados num objeto potencialmente anti-stress e/ou que ajude a trabalhar a concentração.
 
-Porquê Libi?
+Porquê?
 - Responde diretamente à pegada ecológica da indústria do mobiliário, a sua forma única (monobloco) e pequena ajuda a otimizar ainda mais o desperdício em placas já usadas;
 - Contraria os estímulos rápidos digitais através de uma experiência mais tátil, onde o erro faz parte do processo de aprendizagem e o sucesso exige desaceleração e controlo motor;
 - Mostra que a geometria orgânica inspirada na natureza pode gerar estabilidade estrutural complexa através de regras físicas simples.
@@ -50,7 +52,16 @@ Materiais (espécie de madeira), processos de fabrico (CNC, laser, impressão 3D
 
 ## Função
 
-Como se brinca, idade-alvo, montagem, conformidade com a Diretiva 2009/48/CE.
+Como se brinca?
+É um brinquedo de exploração livre e intuitiva. O utilizador é convidado a empilhar as libelinhas sequencialmente, experimentando diferentes posições, rotações e pontos de apoio. Como o design abdica de encaixes mecânicos, o desafio consiste em encontrar o centro de gravidade de cada peça à medida que a estrutura cresce.
+
+A atividade pode ser explorada de duas formas, individualmente ou em grupo, podendo-se tornar num jogo onde cada jogador adiciona uma peça à vez na estrutura partilhada. O objetivo é manter o conjunto estável, perdendo quem colocar a libelinha que cause a queda da estrutura.
+
+Idade-Alvo
+Classificação etária recomendada: A partir dos 5 anos(5+).
+
+Embora o design não apresente perigo de asfixia, o brinquedo exige um nível de coordenação motora, controlo da pressão palmar e paciência que só se desenvolvem plenamente a partir desta idade. Adicionalmente, o conceito de tentativa-erro associado à física elementar é melhor aproveitado por crianças em idade escolar. 
+
 
 ## Apresentação
 
