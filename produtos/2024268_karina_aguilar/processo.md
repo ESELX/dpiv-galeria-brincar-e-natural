@@ -19,12 +19,25 @@ published: true
 ## 1. Protótipo(s)
 
 Fotografias em estúdio com fundo branco do(s) protótipo(s) final(is).
+![[proto1.jpg]]
+![[proto2.jpg]]
+![[proto3.jpg]]
+![[proto4.jpg]]
+![[proto5.jpg]]
 
-![Protótipo final](attachments/proto1.jpg)
-![](attachments/proto2.jpg)
-![Protótipo final](attachments/proto3.jpg)
-![Protótipo final](attachments/proto4.jpg)
-![Protótipo final](attachments/proto5.jpg)
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
