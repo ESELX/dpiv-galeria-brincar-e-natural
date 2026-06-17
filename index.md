@@ -55,9 +55,9 @@ Resumo, referências coletivas e moodboard do grupo encontram-se em [contexto.md
   <!-- duplicar o bloco abaixo para cada produto do grupo -->
 
   
-<a class="gallery-card" href="produtos/_modelo/">
+<a class="gallery-card" href="produtos/2024572_sebastião_abreu/index.md/">
     <img src="produtos/_modelo/attachments/hero.jpg" alt="" />
-    <h3>Nome do Produto</h3>
+    <h3>Quil</h3>
     <p>Sebastião Abreu</p>
   </a>
   <a class="gallery-card" href="produtos/_modelo/">
