@@ -18,7 +18,7 @@ published: true
 
 ## 1. Protótipo(s)
 
-![](proto1.jpg)
+
 
 
 
