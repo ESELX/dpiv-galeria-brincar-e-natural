@@ -26,8 +26,8 @@ student_number: ""
 
 **O que é?**
 
-Libi, um brinquedo modular de empilhamento vertical e horizontal, fabricado através de corte CNC a partir do reaproveitamento de excedentes industriais de madeira. O seu design dispensa propositadamente de encaixes mecânicos fixos e complicados, dependendo do atrito superficial e do cálculo empírico do centro de massa por parte da criança ou de qualquer outro utilizador. (E claro, do empenho, cuidado e foco que o mesmo dá a brincadeira!) 
-**VER CAIXA E SE DA PARA FAZER UMA COM MAIS LIBELINHAS**
+Libi, um brinquedo modular de empilhamento com um **sistema de encaixe gravítico passivo** vertical e horizontal, fabricado através de corte CNC a partir do reaproveitamento de excedentes industriais de madeira. O seu design **dispensa propositadamente de encaixes mecânicos fixos e complicados**, dependendo do atrito superficial e do cálculo empírico do centro de massa por parte da criança ou de qualquer outro utilizador. (E claro, do empenho, cuidado e foco que o mesmo dá a brincadeira!) 
+
 
 
 **Para quem?**
@@ -54,10 +54,10 @@ Posicionamento em relação ao contexto de grupo (ver [contexto](../../contexto.
 
 ## Tecnologia
 
-Materiais (espécie de madeira), processos de fabrico (CNC, laser, impressão 3D), software paramétrico, ficheiros técnicos.
 
-- Modelo 3D: <!-- embed Fusion ou link a360.co -->
-- Ficheiros: `attachments/`
+O design modular do Libi foi desenvolvido no **AutoDesk Fusion 360** para maquinação **CNC**, sendo geometricamente otimizado para o corte com uma **fresa de 3 mm**. Esta engenharia de precisão garante encaixes com tolerâncias milimétricas, permitindo que o sistema funcione por fricção perfeita em placas de qualquer madeira com **espessuras variáveis dos 12 aos 20 mm**. É a tecnologia digital aplicada diretamente à sustentabilidade. 
+
+- Modelo 3D: https://a360.co/4xRilnh
 
 
 
@@ -66,15 +66,15 @@ Materiais (espécie de madeira), processos de fabrico (CNC, laser, impressão 3D
 
 **Como se brinca?**
 
-É um brinquedo de exploração livre e intuitiva. O utilizador é convidado a empilhar as libelinhas sequencialmente, experimentando diferentes posições, rotações e pontos de apoio. Como o design abdica de encaixes mecânicos, o desafio consiste em encontrar o centro de gravidade de cada peça à medida que a estrutura cresce.
+É um brinquedo de **exploração livre e intuitiva**. O utilizador é convidado a **empilhar as libelinhas** sequencialmente, **experimentando** diferentes posições, rotações e pontos de apoio. Como o design abdica de encaixes mecânicos, o desafio consiste em encontrar o centro de gravidade de cada peça à medida que a estrutura cresce.
 
-A atividade pode ser explorada de duas formas, individualmente ou em grupo, podendo-se tornar num jogo onde cada jogador adiciona uma peça à vez na estrutura partilhada. O objetivo é manter o conjunto estável, perdendo quem colocar a libelinha que cause a queda da estrutura.
+A atividade pode ser explorada de duas formas, **individualmente ou em grupo**, podendo-se tornar num jogo onde cada jogador adiciona uma peça à vez na estrutura partilhada. O objetivo é manter o conjunto estável, perdendo quem colocar a libelinha que cause a queda da estrutura.
 
 
 
 **Idade-Alvo**
 
-Classificação etária recomendada: A partir dos 5 anos(5+).
+Classificação etária recomendada: A partir dos 5 anos **(5+)**.
 
 Embora o design não apresente perigo de asfixia, o brinquedo exige um nível de coordenação motora, controlo da pressão palmar e paciência que só se desenvolvem plenamente a partir desta idade. Adicionalmente, o conceito de tentativa-erro associado à física elementar é melhor aproveitado por crianças em idade escolar. 
 
@@ -92,20 +92,24 @@ Conformidade com a Diretiva 2009/48/CE
 
 Para garantir que o projeto é viável no mercado europeu, o design cumpre os requisitos essenciais da diretiva:
 
-Propriedades Mecânicas e Físicas (Artigo 10.º)
+**Propriedades Mecânicas e Físicas (Artigo 10.º)**
 
 - As libelinhas têm dimensões superiores aos calibradores de asfixia padrão (peças com 13 cm de comprimento), eliminando o risco de ingestão.
 - O corte CNC prevê a aplicação de raios de curvatura (fillets) em todas as arestas e pontas da libelinha, garantindo a ausência de cantos afiados ou rebarbas que possam perfurar ou cortar a pele.
 
-Inflamabilidade: A madeira maciça ou derivados de alta densidade (como o contraplacado ou o MDF hidrófugo do protótipo) apresentam uma velocidade de propagação de chama lenta, cumprindo os critérios de não-inflamabilidade imediata.
+**Inflamabilidade**: A madeira maciça ou derivados de alta densidade (como o contraplacado ou o MDF hidrófugo do protótipo) apresentam uma velocidade de propagação de chama lenta, cumprindo os critérios de não-inflamabilidade imediata.
 
-Propriedades Químicas (Anexo II, Parte III): Como o brinquedo aproveita excedentes industriais, o projeto especifica que as peças finais devem ser limpas de resíduos tóxicos e acabadas apenas com óleos vegetais naturais ou ceras de abelha com certificação EN 71-3 (isenção de metais pesados e formaldeídos), tornando o brinquedo seguro mesmo em caso de contacto bocal esporádico. 
+**Propriedades Químicas (Anexo II, Parte III)**: Como o brinquedo aproveita excedentes industriais, o projeto especifica que as peças finais devem ser limpas de resíduos tóxicos e acabadas apenas com óleos vegetais naturais ou ceras de abelha com certificação EN 71-3 (isenção de metais pesados e formaldeídos), tornando o brinquedo seguro mesmo em caso de contacto bocal esporádico. 
 
 
 
 ## Apresentação
 
-![](attachments/render1.jpg)
+
+![](attachments/prancharesumo.png)
+
+![](attachments/ooooo%203.jpg)
+hero
 
 
 ---
