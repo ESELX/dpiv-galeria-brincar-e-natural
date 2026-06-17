@@ -56,7 +56,7 @@ Resumo, referências coletivas e moodboard do grupo encontram-se em [contexto.md
 
   
 <a class="gallery-card" href="produtos/2024572_sebastião_abreu/index.md">
-    <img src="produtos/_modelo/attachments/hero.jpg" alt="" />
+    <img src="produtos/2024572_sebastião_abreu/attachments/hero.jpg" alt="" />
     <h3>Quil</h3>
     <p>Sebastião Abreu</p>
   </a>
@@ -71,7 +71,7 @@ Resumo, referências coletivas e moodboard do grupo encontram-se em [contexto.md
     <p>Adrielly Silva</p>
   </a>
     <a class="gallery-card" href="produtos/2024268_karina_aguilar/index.md">
-    <img src="produtos/_modelo/attachments/hero.jpg" alt="" />
+    <img src="produtos/2024268_karina_aguilar/attachments/hero.jpg" alt="" />
     <h3>Libi</h3>
     <p>Karina Aguilar</p>
   </a>
