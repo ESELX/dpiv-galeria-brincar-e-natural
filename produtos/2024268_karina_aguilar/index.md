@@ -97,8 +97,8 @@ Inflamabilidade: A madeira maciça ou derivados de alta densidade (como o contra
 Propriedades Químicas (Anexo II, Parte III): Como o brinquedo aproveita excedentes industriais, o projeto especifica que as peças finais devem ser limpas de resíduos tóxicos e acabadas apenas com óleos vegetais naturais ou ceras de abelha com certificação EN 71-3 (isenção de metais pesados e formaldeídos), tornando o brinquedo seguro mesmo em caso de contacto bocal esporádico. 
 
 ## Apresentação
+![](render1.jpg)
 
-![](proj3_2026-Jun-17_03-53-33AM-000_CustomizedView26696119369.jpg)
 
 ---
 
