@@ -27,7 +27,13 @@ student_number: ""
 ## Conceito
 
 Libi, um brinquedo modular de empilhamento vertical e horizontal, fabricado através de corte CNC a partir do reaproveitamento de excedentes industriais de madeira. O seu design dispensa propositadamente de encaixes mecânicos fixos e complicados, dependendo do atrito superficial e do cálculo empírico do centro de massa por parte da criança ou de qualquer outro utilizador. (E claro, do empenho, cuidado e foco que o mesmo dá a brincadeira!) 
+
 O brinquedo tem como publico-alvo crianças com idade escolar (a partir dos 6 anos) e todos os jovens e adultos interessados num objeto potencialmente anti-stress e/ou que ajude a trabalhar a concentração.
+
+Porquê Libi?
+- Responde diretamente à pegada ecológica da indústria do mobiliário, a sua forma única (monobloco) e pequena ajuda a otimizar ainda mais o desperdício em placas já usadas;
+- Contraria os estímulos rápidos digitais através de uma experiência mais tátil, onde o erro faz parte do processo de aprendizagem e o sucesso exige desaceleração e controlo motor;
+- 
 
 ![](attachments/placeholder.png)
 
