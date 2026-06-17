@@ -36,19 +36,13 @@ Testes CNC prévios, ensaios em escala, experiências de juntas/encaixes.
 
 ![](attachments/placeholder.png)
 
-## 4. Modelos 3D
+## 3. Modelos 3D
 
 Embed do Fusion (visualização do modelo paramétrico).
 
 https://a360.co/4nqYoPa
 
-## 5. Outros Modelos
-
-Modelos físicos exploratórios, em cartão, espuma, madeira de teste.
-
-![](attachments/placeholder.png)
-
-## 6. Esboços e Pranchas-Resumo
+## 4. Esboços e Pranchas-Resumo
 
 Desenhos manuais, 
 pranchas A3 de síntese, 
@@ -56,18 +50,18 @@ exploração de variantes.
 
 ![](attachments/placeholder.png)
 
-## 7. Pesquisa
+## 5. Pesquisa
 
 ### 7.1. Aspectos valorizados do moodboard, desconstrução da forma (o que distingue o programa formal)
 
 ![](attachments/placeholder.png)
 
-### 7.2. Objetos de referencia
+### 5.2. Objetos de referencia
 
 Inventário de precedentes, brinquedos análogos, referências históricas.
 
 ![](attachments/placeholder.png)
 
-## 9. Outros Elementos
+## 6. Outros Elementos
 
 Outros materiais relevantes para a preparação do conceito (entrevistas, observação, testes com utilizadores, notas, leituras, inspirações).

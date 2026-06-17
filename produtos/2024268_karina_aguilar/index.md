@@ -16,26 +16,23 @@ student_number: ""
 
 # Libi
 
-<!--
-  HERO: idealmente uma pseudo-sessão fotográfica do produto
-  (ver tutorial Pletor.ai nos Recursos da disciplina, em
-  /Recursos/AI_exps/). Usa attachments/hero.jpg para o frontmatter.
--->
 
 > Um sistema de libelinhas monobloco paramétricas que desafia a atenção e a concentração através do equilíbrio gravítico passivo e de livre recombinação. 
 
+
+
 ## Conceito
+
 
 **O que é?**
 
 Libi, um brinquedo modular de empilhamento vertical e horizontal, fabricado através de corte CNC a partir do reaproveitamento de excedentes industriais de madeira. O seu design dispensa propositadamente de encaixes mecânicos fixos e complicados, dependendo do atrito superficial e do cálculo empírico do centro de massa por parte da criança ou de qualquer outro utilizador. (E claro, do empenho, cuidado e foco que o mesmo dá a brincadeira!) 
-
+**VER CAIXA E SE DA PARA FAZER UMA COM MAIS LIBELINHAS**
 
 
 **Para quem?**
 
 Libi tem como publico-alvo crianças com idade escolar (a partir dos 5 anos) e todos os jovens e adultos interessados num objeto potencialmente anti-stress e/ou que ajude a trabalhar a concentração.
-
 
 
 **Porquê?**
@@ -44,11 +41,16 @@ Libi tem como publico-alvo crianças com idade escolar (a partir dos 5 anos) e t
 - Contraria os estímulos rápidos digitais através de uma experiência mais tátil, onde o erro faz parte do processo de aprendizagem e o sucesso exige desaceleração e controlo motor;
 - Mostra que a geometria orgânica inspirada na natureza pode gerar estabilidade estrutural complexa através de regras físicas simples.
 
+
 ![](attachments/placeholder.png)
+
+
 
 ## Enquadramento
 
 Posicionamento em relação ao contexto de grupo (ver [contexto](../../contexto.md)) e à recolha de objetos a redesenhar.
+
+
 
 ## Tecnologia
 
@@ -57,7 +59,10 @@ Materiais (espécie de madeira), processos de fabrico (CNC, laser, impressão 3D
 - Modelo 3D: <!-- embed Fusion ou link a360.co -->
 - Ficheiros: `attachments/`
 
+
+
 ## Função
+
 
 **Como se brinca?**
 
@@ -95,6 +100,8 @@ Propriedades Mecânicas e Físicas (Artigo 10.º)
 Inflamabilidade: A madeira maciça ou derivados de alta densidade (como o contraplacado ou o MDF hidrófugo do protótipo) apresentam uma velocidade de propagação de chama lenta, cumprindo os critérios de não-inflamabilidade imediata.
 
 Propriedades Químicas (Anexo II, Parte III): Como o brinquedo aproveita excedentes industriais, o projeto especifica que as peças finais devem ser limpas de resíduos tóxicos e acabadas apenas com óleos vegetais naturais ou ceras de abelha com certificação EN 71-3 (isenção de metais pesados e formaldeídos), tornando o brinquedo seguro mesmo em caso de contacto bocal esporádico. 
+
+
 
 ## Apresentação
 
