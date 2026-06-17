@@ -3,7 +3,7 @@ title: Libi
 icon: lucide/box
 tags: galeria
 status: not-started
-hero_image: attachments/hero1.jpg
+hero_image: attachments/hero.jpg
 hero_title: Libi
 hero_subtitle: Karina Aguilar · 2025-26
 hero_height: 80vh

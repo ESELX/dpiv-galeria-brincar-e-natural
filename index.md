@@ -71,7 +71,7 @@ Resumo, referências coletivas e moodboard do grupo encontram-se em [contexto.md
     <p>Adrielly Silva</p>
   </a>
     <a class="gallery-card" href="produtos/2024268_karina_aguilar/index.md">
-    <img src="produtos/2024268_karina_aguilar/attachments/hero1.jpg" alt="" />
+    <img src="produtos/2024268_karina_aguilar/attachments/hero.jpg" alt="" />
     <h3>Libi</h3>
     <p>Karina Aguilar</p>
   </a>
