@@ -98,7 +98,7 @@ Propriedades Químicas (Anexo II, Parte III): Como o brinquedo aproveita excede
 
 ## Apresentação
 
-![[render1.jpg]]
+![](attachments/render1.jpg)
 
 ---
 
