@@ -1,11 +1,11 @@
 ---
-title: index
+title: Libi
 icon: lucide/box
 tags: galeria
 status: not-started
 hero_image: attachments/hero.jpg
-hero_title: Libi
-hero_subtitle: Karina Aguilar · 2025-26
+hero_title: Nome do Produto
+hero_subtitle: Nome do Aluno · 2025-26
 hero_height: 80vh
 hero_overlay: 0.25
 hero_align: center
@@ -22,15 +22,14 @@ student_number: ""
   /Recursos/AI_exps/). Usa attachments/hero.jpg para o frontmatter.
 -->
 
-> Um sistema de libelinhas monobloco paramétricas que desafia a atenção e a concentração através do equilíbrio gravítico passivo e de livre recombinação. 
+> Frase-conceito (uma linha): qual é a proposta?
 
 A página deve tornar **visualmente percetível** a estratégia de resposta ao enunciado.
 Segue a estrutura de **prancha-resumo** + **esquema-base** (C-E-T-F).
 
 ## Conceito
 
-Libi, um brinquedo modular de empilhamento vertical e horizontal, fabricado através de corte CNC a partir do reaproveitamento de excedentes industriais de madeira. O seu design dispensa propositadamente de encaixes mecânicos fixos e complicados, dependendo do atrito superficial e do cálculo empírico do centro de massa por parte da criança ou de qualquer outro utilizador. (E claro, do empenho, cuidado e foco que o mesmo dá a brincadeira!)
-O brinquedo tem como publico-alvo crianças com idade escolar (a partir dos 6 anos) e todos os jovens e adultos interessados num objeto potencialmente anti-stress e/ou que ajude a trabalhar a concentração. 
+Ideia central do produto. O que é, para quem, porquê.
 
 ![](attachments/placeholder.png)
 

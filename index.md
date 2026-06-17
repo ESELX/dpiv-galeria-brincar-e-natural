@@ -54,12 +54,8 @@ Resumo, referências coletivas e moodboard do grupo encontram-se em [contexto.md
 
   <!-- duplicar o bloco abaixo para cada produto do grupo -->
 
-  <a class="gallery-card" href="produtos/2024268_karina_aguilar/index.md">
-    <img src="produtos/_modelo/attachments/hero.jpg" alt="" />
-    <h3>Libi</h3>
-    <p>Karina Aguilar</p>
-  </a>
-    <a class="gallery-card" href="produtos/_modelo/">
+  
+<a class="gallery-card" href="produtos/_modelo/">
     <img src="produtos/_modelo/attachments/hero.jpg" alt="" />
     <h3>Nome do Produto</h3>
     <p>Sebastião Abreu</p>
@@ -73,6 +69,11 @@ Resumo, referências coletivas e moodboard do grupo encontram-se em [contexto.md
     <img src="produtos/_modelo/attachments/hero.jpg" alt="" />
     <h3>Nome do Produto</h3>
     <p>Adrielly Silva</p>
+  </a>
+    <a class="gallery-card" href="produtos/2024268_karina_aguilar/index.md/">
+    <img src="produtos/_modelo/attachments/hero.jpg" alt="" />
+    <h3>Libi</h3>
+    <p>Nome do aluno</p>
   </a>
  
 
