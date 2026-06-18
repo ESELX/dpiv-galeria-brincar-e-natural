@@ -1,11 +1,11 @@
 ---
-title: "Nome do Produto"
+title: Comb-In
 icon: lucide/box
 tags: galeria
 status: not-started
 hero_image: attachments/hero.jpg
-hero_title: "Nome do Produto"
-hero_subtitle: "Nome do Aluno · 2025-26"
+hero_title: Comb-In
+hero_subtitle: Mariana Rocha · 2025-26
 hero_height: 80vh
 hero_overlay: 0.25
 hero_align: center
@@ -14,46 +14,77 @@ student_name: ""
 student_number: ""
 ---
 
-# Nome do Produto
+# Comb-In
 
-<!--
-  HERO: idealmente uma pseudo-sessão fotográfica do produto
-  (ver tutorial Pletor.ai nos Recursos da disciplina, em
-  /Recursos/AI_exps/). Usa attachments/hero.jpg para o frontmatter.
--->
 
 > Frase-conceito (uma linha): qual é a proposta?
 
-A página deve tornar **visualmente percetível** a estratégia de resposta ao enunciado.
-Segue a estrutura de **prancha-resumo** + **esquema-base** (C-E-T-F).
+![](attachments/WhatsApp%20Image%202026-06-18%20at%2016.27.50.jpeg)
 
 ## Conceito
 
+Conceito
+
 Ideia central do produto. O que é, para quem, porquê.
 
-![](attachments/placeholder.png)
+O que é?
+
+Comb-In é um jogo inspirado em hokey de mesa, com um design visualmente aplativo em que o disco é um favo de mel e os peões são uma abelha e uma borboleta. O objetivo é com um peão por o disco na baliza do adversário, o jogo contém uma caixa, que é o campo de jogo, montável com cinco peças, dois peões e um disco.
+
+Para quem?
+
+O jogo foi pensado para ser jogado por qualquer faixa etária, pois é um jogo simples, fácil de aprender e divertido, que dá pra levar e jogar em qualquer lado.
+
+Porque?
+
+Os brinquedos são feitos à base de restos de madeira, para não haver desperdicios. Foi criado uma linha de brinquedos onde a mesma madeira é reutilizada, portanto é bom para o ambiente.
+
+![](attachments/WhatsApp%20Image%202026-06-18%20at%2016.27.50%20(1).jpeg)
 
 ## Enquadramento
 
-Posicionamento em relação ao contexto de grupo (ver [contexto](../../contexto.md)) e à recolha de objetos a redesenhar.
+O Comb-in faz parte de uma linha brinquedos amigos-do-ambiente da marca Nestor. A marca foi feita a partir de restos de madeira e a temática é a natureza e insetos. Todos os brinquedos têm insetos diferentes ou alguma analogia à natureza para que assim fossem um grupo de brinquedos com uma ideia partilhada.
+
+Dentro da ideia da natureza e insetos, o Comb-In é feito a pensar no original hokey de mesa em que o jogador tem opção de escolher entre jogar com o peão da borboleto ou o peão da abelha. Dentro jogo também existe um disco que é representado como um favo de mel.
+
+Este brinquedo assim como os da linha Nestor, foi pensado para que fosse jogado em familia ou com amigos para criar laços mais fortes com pessoas queridas e para se divertirem.
 
 ## Tecnologia
 
-Materiais (espécie de madeira), processos de fabrico (CNC, laser, impressão 3D), software paramétrico, ficheiros técnicos.
+O produto foi feito no software de modelação 3D Fusion 360, para a construção do modelo digital.
 
-- Modelo 3D: <!-- embed Fusion ou link a360.co -->
-- Ficheiros: `attachments/`
+A fabricação das peças foi executada através de tecnologia CNC.
+
+https://a360.co/4uGl67N
 
 ## Função
 
-Como se brinca, idade-alvo, montagem, conformidade com a Diretiva 2009/48/CE.
+O Comb-In é um jogo inspirado no original hokey de mesa, onde dois jogadores contralam um peão e têm de bater no disco com o mesmo para que ele entre na baliza do adversário, assim marca-se um ponto. Os prórios jogadores podem escolher qual é o maximo de pontos que querem alcançar.
+
+O brinquedo pode ser utilizado para qualquer faixa etaria, seja em contexto familiar ou entre amigos, o jogo é fácil de jogar então facilita a aprendizagem do mesmo.
+
+O jogo contém dez peças, a base ou tabuleiro que é contituido por cinco peças faceis de montar, um disco e dois peões ambos com uma base (duas peças, borboleta e abelha e as respetivas bases).
+
+O produto foi desenvolvido de acordo com os princípios da Diretiva Europeia 2009/48/CE relativa à segurança dos brinquedos.
 
 ## Apresentação
 
-Imagens-chave que sintetizam o produto final.
 
-![](attachments/placeholder.png)
-![](attachments/placeholder.png)
+![](attachments/WhatsApp%20Image%202026-06-18%20at%2016.27.51%20(2).jpeg)
+
+
+![](attachments/WhatsApp%20Image%202026-06-18%20at%2016.27.51%20(1).jpeg)
+
+
+![](attachments/WhatsApp%20Image%202026-06-18%20at%2016.27.50%20(3).jpeg)
+
+
+![](attachments/WhatsApp%20Image%202026-06-18%20at%2016.27.50%20(2).jpeg)
+
+
+![](attachments/WhatsApp%20Image%202026-06-18%20at%2016.27.51.jpeg)
+
+
 
 ---
 

@@ -14,60 +14,33 @@ published: true
 
 # Processo
 
-> Organizado do **mais recente** para o **mais antigo**. Faz uma seleção que torne clara, aprazível e detalhada a evolução do produto e das ideias.
 
-## 1. Protótipo(s)
-
-Fotografias em estúdio com fundo branco do(s) protótipo(s) final(is).
-
-![Protótipo final](attachments/placeholder.png)
-![](attachments/placeholder.png)
-
-## 2. Processo de Prototipagem
-
-Maquinação CNC, montagem, acabamentos pontuais. 
-
-![](attachments/placeholder.png)
+## 1. Modelos 3D
 
 
-## 3. Protótipos Exploratórios
+https://a360.co/4uGl67N
 
-Testes CNC prévios, ensaios em escala, experiências de juntas/encaixes.
+## 2. Esboços e Pranchas-Resumo
 
-![](attachments/placeholder.png)
+![](attachments/WhatsApp%20Image%202026-06-18%20at%2016.27.51%20(3).jpeg)
 
-## 4. Modelos 3D
+## 3. Pesquisa
 
-Embed do Fusion (visualização do modelo paramétrico).
+### 3.1. Aspectos valorizados do moodboard, desconstrução da forma (o que distingue o programa formal)
 
-https://a360.co/4nqYoPa
+Foram utilizadas várias referencias para a realização do produto, as mais utilizadas foi o simples hockey de mesa para ver como funciona, possíveis designs da base e como poderia fazer com que a base se encaixa-se.
 
-## 5. Outros Modelos
+As imagens acabaram por facilitar o processo de construção do objeto. 
 
-Modelos físicos exploratórios, em cartão, espuma, madeira de teste.
+![](attachments/WhatsApp%20Image%202026-06-18%20at%2016.27.51%20(4).jpeg)
 
-![](attachments/placeholder.png)
+### 3.2. Moodboard
 
-## 6. Esboços e Pranchas-Resumo
+O moodboard contém referências animais, nomeadamente insetos como a borboleta e a abelha que estão representadas. Além disso contém colmeias, mais especificamente favos de mel que foi a inspiração principal para o disco e por fim uma versão grande de hokey de mesa em madeira.
 
-Desenhos manuais, 
-pranchas A3 de síntese, 
-exploração de variantes.
+Todos os elementos presentes no moodboard foram escolhidos para dar mais clareza à idea inicial.
 
-![](attachments/placeholder.png)
 
-## 7. Pesquisa
+![](attachments/WhatsApp%20Image%202026-06-18%20at%2016.27.51%20(5).jpeg)
 
-### 7.1. Aspectos valorizados do moodboard, desconstrução da forma (o que distingue o programa formal)
 
-![](attachments/placeholder.png)
-
-### 7.2. Objetos de referencia
-
-Inventário de precedentes, brinquedos análogos, referências históricas.
-
-![](attachments/placeholder.png)
-
-## 9. Outros Elementos
-
-Outros materiais relevantes para a preparação do conceito (entrevistas, observação, testes com utilizadores, notas, leituras, inspirações).
