@@ -64,7 +64,7 @@ A brincadeira com a prancha é totalmente livre e intuitiva. O utilizador só te
 
 **Idade-Alvo**
 
-A classificação etária recomendada é a partir dos 5 anos (5+). Embora as peças sejam grandes e não apresentem risco de asfixia por ingestão, o brinquedo exige coordenação motora, controlo das pernas e uma noção de equilíbrio que as crianças mais pequenas ainda estão a desenvolver. 
+A classificação etária recomendada é a partir dos 5 anos (5+). Embora as peças sejam grandes e não apresentem risco de asfixia por ingestão, o brinquedo exige coordenação motora, controlo de pernas e uma noção de equilíbrio que as crianças mais pequenas ainda não conseguem desenvolver. 
 
 **Montagem**
 
