@@ -90,6 +90,6 @@ O produto foi desenvolvido de acordo com os princípios da Diretiva Europeia 200
 
 ## Processo
 
-O percurso completo de iterações, modelos e pesquisa está em [processo.md](produtos/_modelo%203/processo.md), organizado do **mais recente** para o **mais antigo**.
+O percurso completo de iterações, modelos e pesquisa está em [processo.md](produtos/2024301_mariana_rocha/processo.md), organizado do **mais recente** para o **mais antigo**.
 
-[Ver processo completo →](produtos/_modelo%203/processo.md)
+[Ver processo completo →](produtos/2024301_mariana_rocha/processo.md)

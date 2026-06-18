@@ -14,60 +14,63 @@ published: true
 
 # Processo
 
-> Organizado do **mais recente** para o **mais antigo**. Faz uma seleção que torne clara, aprazível e detalhada a evolução do produto e das ideias.
 
-## 1. Protótipo(s)
+## 1. Renders
 
-Fotografias em estúdio com fundo branco do(s) protótipo(s) final(is).
+![](attachments/proj_sabas_2026-May-29_03-20-01AM-000_CustomizedView35497521699.jpg)
 
-![Protótipo final](attachments/placeholder.png)
-![](attachments/placeholder.png)
-
-## 2. Processo de Prototipagem
-
-Maquinação CNC, montagem, acabamentos pontuais. 
-
-![](attachments/placeholder.png)
+Render Quill - **AutoDesk Fusion 360**
 
 
-## 3. Protótipos Exploratórios
+## 2. Modelos 3D
 
-Testes CNC prévios, ensaios em escala, experiências de juntas/encaixes.
+Foram realizados mais que um modelo no Fusion para o aperfeiçoamento do desenho paramétrico.
 
-![](attachments/placeholder.png)
+https://a360.co/4uLI2CP
 
-## 4. Modelos 3D
+Modelo 3D Final
 
-Embed do Fusion (visualização do modelo paramétrico).
+https://a360.co/3Qq6Mm2
 
-https://a360.co/4nqYoPa
+1º Modelo 3D 
 
-## 5. Outros Modelos
 
-Modelos físicos exploratórios, em cartão, espuma, madeira de teste.
 
-![](attachments/placeholder.png)
+## 3. Esboços e Pranchas-Resumo
 
-## 6. Esboços e Pranchas-Resumo
 
-Desenhos manuais, 
-pranchas A3 de síntese, 
-exploração de variantes.
 
-![](attachments/placeholder.png)
 
-## 7. Pesquisa
 
-### 7.1. Aspectos valorizados do moodboard, desconstrução da forma (o que distingue o programa formal)
 
-![](attachments/placeholder.png)
 
-### 7.2. Objetos de referencia
 
-Inventário de precedentes, brinquedos análogos, referências históricas.
 
-![](attachments/placeholder.png)
 
-## 9. Outros Elementos
+![](attachments/nestor3.jpg)
 
-Outros materiais relevantes para a preparação do conceito (entrevistas, observação, testes com utilizadores, notas, leituras, inspirações).
+1º Prancha-resumo 
+
+
+
+
+
+
+
+## 4. Pesquisa
+
+### 4.1. Aspectos valorizados do moodboard, desconstrução da forma (o que distingue o programa formal)
+
+Para além da inspiração em motivos florais mais especificamente na famosa flor _Malmequer_ (presente no Moodboard geral do projeto) foi usada uma forma mais imaginativa e orgânica do Sol, muito ligada e presente nos desenhos animados e ilustrações para crianças. 
+
+
+![](attachments/WhatsApp%20Image%202026-06-18%20at%2016.28.04.jpeg)
+
+
+### 4.2. Objetos de referencia
+
+![](attachments/635ba2_0ec105ec32374d91ba73eb4fbd165659~mv2.jpeg.avif)
+
+https://www.adapt4you.com/product-page/prancha-de-equilibrio
+
+
