@@ -44,13 +44,29 @@ From an educational perspective, this focus on nature distances the project from
 
 ![](attachments/acrobots-wooden-stacking-balancing-toys-1000x1000.jpg)
 
-- **Objeto 1** — AcroBots - OPA Toys, India. O objeto foi escolhido para um redesenho devido à sua vertente forte de "brincadeira", é um brinquedo que mostra trabalhar o cérebro e ao mesmo tempo ser prazeroso e divertido. Tem um desenho simples que pode ser facilmente alterado. 
+- **Objeto 1** — Karina Aguilar - AcroBots - OPA Toys, India. O objeto foi escolhido para um redesenho devido à sua vertente forte de "brincadeira", é um brinquedo que mostra trabalhar o cérebro e ao mesmo tempo ser prazeroso e divertido. Tem um desenho simples que pode ser facilmente alterado. 
+
+![](attachments/WhatsApp%20Image%202026-06-17%20at%2023.38.45.jpeg)
+
+- **Objeto 2** — Adrielly Saraiva -  Este jogo do galo portátil foi escolhido devido a sua simplicidade e funcionalidade. A autoria não foi identificada, mas a sua origem é artesanal e produzida em madeira através da tecnologia de corte laser.
+
+![](attachments/WhatsApp%20Image%202026-06-18%20at%2016.27.51%20(4).jpeg)
+
+- **Objeto 3** — Mariana Rocha - A mesa de hockey foi feita por Donald H. Munro Sr. em 1932, em Toronto. O jogo foi criado por Munro e sua família durante o período da Grande Depressão, numa véspera de Natal, para proporcionar entretenimento aos seus três filhos. Escolheu-se este objeto pelo sentimento nostálgico que traz. 
+
+![](attachments/635ba2_0ec105ec32374d91ba73eb4fbd165659~mv2.jpeg.avif)
+
+- **Objeto 4** — Sebastião Abreu - Prancha De Equilíbrio - Adapt4You. Foi escolhido este objeto de inspiração pelo seu dinamismo na brincadeira e pela capacidade de recriação do objeto em madeira e com encaixes possíveis em CNC.    
 
 
-
-- **Objeto 2** — ...
 
 ### 2.2. Moodboard
 
 
 ![](attachments/MOODBOARD.png)
+
+
+
+## 3. Embalagem:
+
+O desenvolvimento da embalagem da coleção Nestor realizado pelo grupo pode ser consultado em [Embalagem](embalagem.md). 
