@@ -29,7 +29,6 @@ student_number: ""
 Libi, um brinquedo modular de empilhamento com um **sistema de encaixe gravítico passivo** vertical e horizontal, fabricado através de corte CNC a partir do reaproveitamento de excedentes industriais de madeira. O seu design **dispensa propositadamente de encaixes mecânicos fixos e complicados**, dependendo do atrito superficial e do cálculo empírico do centro de massa por parte da criança ou de qualquer outro utilizador. (E claro, do empenho, cuidado e foco que o mesmo dá a brincadeira!) 
 
 
-
 **Para quem?**
 
 Libi tem como publico-alvo crianças com idade escolar (a partir dos 5 anos) e todos os jovens e adultos interessados num objeto potencialmente anti-stress e/ou que ajude a trabalhar a concentração.
@@ -48,8 +47,11 @@ Libi tem como publico-alvo crianças com idade escolar (a partir dos 5 anos) e t
 
 ## Enquadramento
 
-Posicionamento em relação ao contexto de grupo (ver [contexto](../../contexto.md)) e à recolha de objetos a redesenhar.
+O brinquedo Libi é a tradução perfeita da ideia central do  grupo, de que na natureza o conceito de lixo não existe e tudo se transforma. Ao olharmos para a exigência da proposta Nestor de usar apenas madeira, decidimos não criar algo do zero, mas sim dar uma nova vida ao que já tinha sido descartado. É aqui que o conceito da Libi se cruza diretamente com o ciclo natural, pois o brinquedo nasce do reaproveitamento de excedentes e restos da indústria de mobiliário. 
 
+Esta forte ligação ao funcionamento da natureza também se reflete na mecânica do brinquedo,  Libi leva o principio do "0 encaixes" ao limite ao funcionar apenas através da gravidade e do atrito. Ao usar uma forma inspirada no meio ambiente para encontrar estabilidade através de regras físicas simples, o brinquedo mostra que a própria natureza já nos dá as soluções estruturais de que precisamos. Não há truques mecânicos ou artificiais, é apenas a física real do Universo a ditar as regras do brinquedo.
+
+Por fim, o objetivo pedagógico do grupo, que passa por afastar as crianças dos estímulos virtuais rápidos e trazê-las de volta ao mundo real, ganha forma na dinâmica da Libi. O ato de empilhar as peças sem encaixes fixos exige desaceleração, foco e paciência, transformando o erro numa parte natural da aprendizagem, exatamente como acontece no desenvolvimento de qualquer ser vivo. Quer a brincadeira seja feita de forma individual ou partilhada em grupo, a Libi deixa de ser apenas um objeto isolado e passa a ser a prova viva do nosso manifesto coletivo, um design que respeita, ouve e honra o ciclo o ecossistema.
 
 
 ## Tecnologia
