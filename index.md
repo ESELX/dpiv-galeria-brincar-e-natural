@@ -38,6 +38,7 @@ group_number: ""
 
 ![](attachments/Gemini_Generated_Image_6xmu8f6xmu8f6xmu.png)
 
+> Um ecossistema de brincadeira Eco-lógico inspirado pela Natureza e pensado para todos. 
 
 Resumo, referências coletivas e moodboard do grupo encontram-se em [contexto.md](contexto.md).
 
