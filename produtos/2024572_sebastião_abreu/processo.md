@@ -35,7 +35,6 @@ https://a360.co/3Qq6Mm2
 1º Modelo 3D 
 
 
-
 ## 3. Esboços e Pranchas-Resumo
 
 
@@ -63,9 +62,7 @@ https://a360.co/3Qq6Mm2
 
 Para além da inspiração em motivos florais mais especificamente na famosa flor _Malmequer_ (presente no Moodboard geral do projeto) foi usada uma forma mais imaginativa e orgânica do Sol, muito ligada e presente nos desenhos animados e ilustrações para crianças. 
 
-
 ![](attachments/WhatsApp%20Image%202026-06-18%20at%2016.28.04.jpeg)
-
 
 ### 4.2. Objetos de referencia
 

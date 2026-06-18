@@ -14,27 +14,20 @@ published: true
 
 # Processo
 
-> 
 
 ## 1. Protótipo(s)
 
-
 Para validar a geometria do brinquedo e a eficácia dos encaixes modulares, foram produzidos protótipos físicos com 15mm de espessura em MDF colorido em massa (Valchromat), recorrendo ao corte da CNC. Esta fase foi importante para **testar e explorar o equilíbrio e os pontos de unificação** das libelinhas. Para além disso, ajudou na descoberta que o dinamismo da brincadeira com a Libi vai para além da sua projeção inicial, **revelando pontos de equilibrio e "encaixe"** que não tinham ainda sido pensados na mesma. 
-
 
 ![](attachments/proto1.jpg)
 
-
 ![](attachments/proto2.jpg)
-
 
 ![](attachments/proto3.jpg)
 
 ![](attachments/proto4.jpg)
 
-
 ![](attachments/proto5.jpg)
-
 
 
 ## 2. Processo de Prototipagem
@@ -45,9 +38,7 @@ O processo de fabrico dos protótipos assentou numa **lógica de desperdício ze
 
 A maquinação foi executada numa **fresadora CNC de três eixos** (OUPLAN). Para garantir a precisão milimétrica dos encaixes e a definição do contorno orgânico em forma de libelinha, utilizou-se uma fresa de topo plano de **3 mm**. Esta escolha permitiu obter cantos internos limpos e mais perfeitos e reduzir a perda de material por canal de corte, assegurando que o sistema modular funcionasse com a fricção ideal.
 
-
 ![](attachments/cnc1.jpeg)
-
 
 **Acabamentos Pontuais**
 
@@ -55,9 +46,7 @@ A maquinação foi executada numa **fresadora CNC de três eixos** (OUPLAN). Pa
 
 **Limpeza e retificação**: Verificação e limpeza dos canais de encaixe para remover qualquer resíduo de pó de madeira que pudesse comprometer a estabilidade do empilhamento.
 
-
 ![](attachments/cnc2.jpeg)
-
 
 
 ## 4. Modelos 3D
@@ -146,7 +135,6 @@ Esboço 14 - Aperfeiçoamento da forma 2
 Esboço 15 - Exploração de ângulos de corte 
 
 
-
 ## 6. Pesquisa
 
 ### 6.1. Aspectos valorizados do moodboard, desconstrução da forma (o que distingue o programa formal)
@@ -162,6 +150,7 @@ https://www.cosmos.so/e/1155043978
 ![](attachments/acrobots-wooden-stacking-balancing-toys-1000x1000.jpg)
 
 https://opatoys.com
+
 
 ## 7. Outros Elementos
 

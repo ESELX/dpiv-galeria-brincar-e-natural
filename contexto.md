@@ -14,6 +14,7 @@ published: true
 
 # Contexto de Design
 
+
 ## 1. Resumo / Abstract
 
 ### Resumo (PT)
@@ -36,11 +37,9 @@ The entire collection was designed to celebrate wood in its purest form, relying
 From an educational perspective, this focus on nature distances the project from the virtual and artificial stimuli that flood our daily lives, promoting a return to tactile and free play. By interacting with the real textures of wood and with shapes that challenge gravity, weight, balance and the brain, children discover the physical principles that govern our world in a more intuitive way. Ultimately, our concept combines the ecological responsibility demanded by the Nestor proposal with a sensitivity to biophilia, demonstrating that design takes on far greater significance when it begins to listen to and value the harmony that nature offers us. 
 
 
-
 ## 2. Referências Coletivas
 
 ### 2.1. Recolha de Objetos a Redesenhar/Remisturar
-
 
 ![](attachments/acrobots-wooden-stacking-balancing-toys-1000x1000.jpg)
 
@@ -59,14 +58,11 @@ From an educational perspective, this focus on nature distances the project from
 - **Objeto 4** — Sebastião Abreu - Prancha De Equilíbrio - Adapt4You. Foi escolhido este objeto de inspiração pelo seu dinamismo na brincadeira e pela capacidade de recriação do objeto em madeira e com encaixes possíveis em CNC.    
 
 
-
 ### 2.2. Moodboard
-
 
 ![](attachments/MOODBOARD.png)
 
 
-
-## 3. Embalagem:
+## 3. Embalagem
 
 O desenvolvimento da embalagem da coleção Nestor realizado pelo grupo pode ser consultado em [Embalagem](embalagem.md). 

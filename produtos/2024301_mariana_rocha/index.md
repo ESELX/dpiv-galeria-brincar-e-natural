@@ -16,30 +16,27 @@ student_number: ""
 
 # Comb-In
 
-
-> Frase-conceito (uma linha): qual é a proposta?
+> Diversão numa caixa.
 
 ![](attachments/WhatsApp%20Image%202026-06-18%20at%2016.27.50.jpeg)
 
+
 ## Conceito
 
-Conceito
-
-Ideia central do produto. O que é, para quem, porquê.
-
-O que é?
+**O que é?**
 
 Comb-In é um jogo inspirado em hokey de mesa, com um design visualmente aplativo em que o disco é um favo de mel e os peões são uma abelha e uma borboleta. O objetivo é com um peão por o disco na baliza do adversário, o jogo contém uma caixa, que é o campo de jogo, montável com cinco peças, dois peões e um disco.
 
-Para quem?
+**Para quem?**
 
 O jogo foi pensado para ser jogado por qualquer faixa etária, pois é um jogo simples, fácil de aprender e divertido, que dá pra levar e jogar em qualquer lado.
 
-Porque?
+**Porquê?**
 
 Os brinquedos são feitos à base de restos de madeira, para não haver desperdicios. Foi criado uma linha de brinquedos onde a mesma madeira é reutilizada, portanto é bom para o ambiente.
 
 ![](attachments/WhatsApp%20Image%202026-06-18%20at%2016.27.50%20(1).jpeg)
+
 
 ## Enquadramento
 
@@ -49,6 +46,7 @@ Dentro da ideia da natureza e insetos, o Comb-In é feito a pensar no original h
 
 Este brinquedo assim como os da linha Nestor, foi pensado para que fosse jogado em familia ou com amigos para criar laços mais fortes com pessoas queridas e para se divertirem.
 
+
 ## Tecnologia
 
 O produto foi feito no software de modelação 3D Fusion 360, para a construção do modelo digital.
@@ -56,6 +54,7 @@ O produto foi feito no software de modelação 3D Fusion 360, para a construçã
 A fabricação das peças foi executada através de tecnologia CNC.
 
 - Modelo 3D: https://a360.co/4uGl67N
+
 
 ## Função
 
@@ -67,23 +66,18 @@ O jogo contém dez peças, a base ou tabuleiro que é contituido por cinco peça
 
 O produto foi desenvolvido de acordo com os princípios da Diretiva Europeia 2009/48/CE relativa à segurança dos brinquedos.
 
-## Apresentação
 
+## Apresentação
 
 ![](attachments/WhatsApp%20Image%202026-06-18%20at%2016.27.51%20(2).jpeg)
 
-
 ![](attachments/WhatsApp%20Image%202026-06-18%20at%2016.27.51%20(1).jpeg)
-
 
 ![](attachments/WhatsApp%20Image%202026-06-18%20at%2016.27.50%20(3).jpeg)
 
-
 ![](attachments/WhatsApp%20Image%202026-06-18%20at%2016.27.50%20(2).jpeg)
 
-
 ![](attachments/WhatsApp%20Image%202026-06-18%20at%2016.27.51.jpeg)
-
 
 
 ---

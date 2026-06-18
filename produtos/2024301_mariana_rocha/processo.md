@@ -17,12 +17,13 @@ published: true
 
 ## 1. Modelos 3D
 
-
 https://a360.co/4uGl67N
+
 
 ## 2. Esboços e Pranchas-Resumo
 
 ![](attachments/WhatsApp%20Image%202026-06-18%20at%2016.27.51%20(3).jpeg)
+
 
 ## 3. Pesquisa
 
@@ -39,7 +40,6 @@ As imagens acabaram por facilitar o processo de construção do objeto.
 O moodboard contém referências animais, nomeadamente insetos como a borboleta e a abelha que estão representadas. Além disso contém colmeias, mais especificamente favos de mel que foi a inspiração principal para o disco e por fim uma versão grande de hokey de mesa em madeira.
 
 Todos os elementos presentes no moodboard foram escolhidos para dar mais clareza à idea inicial.
-
 
 ![](attachments/WhatsApp%20Image%202026-06-18%20at%2016.27.51%20(5).jpeg)
 

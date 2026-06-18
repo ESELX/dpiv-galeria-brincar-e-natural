@@ -16,23 +16,18 @@ student_number: ""
 
 # Libi
 
-
 > Um sistema de libelinhas monobloco paramétricas que desafia a atenção e a concentração através do equilíbrio gravítico passivo e de livre combinação. 
 
 
-
 ## Conceito
-
 
 **O que é?**
 
 Libi, um brinquedo modular de empilhamento com um **sistema de encaixe gravítico passivo** vertical e horizontal, fabricado através de corte CNC a partir do reaproveitamento de excedentes industriais de madeira. O seu design **dispensa propositadamente de encaixes mecânicos fixos e complicados**, dependendo do atrito superficial e do cálculo empírico do centro de massa por parte da criança ou de qualquer outro utilizador. (E claro, do empenho, cuidado e foco que o mesmo dá a brincadeira!) 
 
-
 **Para quem?**
 
 Libi tem como publico-alvo crianças com idade escolar (a partir dos 5 anos) e todos os jovens e adultos interessados num objeto potencialmente anti-stress e/ou que ajude a trabalhar a concentração.
-
 
 **Porquê?**
 
@@ -40,10 +35,10 @@ Libi tem como publico-alvo crianças com idade escolar (a partir dos 5 anos) e t
 - Contraria os estímulos rápidos digitais através de uma experiência mais tátil, onde o erro faz parte do processo de aprendizagem e o sucesso exige desaceleração e controlo motor;
 - Mostra que a geometria orgânica inspirada na natureza pode gerar estabilidade estrutural complexa através de regras físicas simples.
 
-
 ![](attachments/prancharesumo.png)
 
 Prancha-resumo do projeto Libi.
+
 
 ## Enquadramento
 
@@ -56,15 +51,12 @@ Por fim, o objetivo pedagógico do grupo, que passa por afastar as crianças dos
 
 ## Tecnologia
 
-
 O design modular do Libi foi desenvolvido no **AutoDesk Fusion 360** para maquinação **CNC**, sendo geometricamente otimizado para o corte com uma **fresa de 3 mm**. Esta engenharia de precisão garante encaixes com tolerâncias milimétricas, permitindo que o sistema funcione por fricção perfeita em placas de qualquer madeira com **espessuras variáveis dos 12 aos 20 mm**. É a tecnologia digital aplicada diretamente à sustentabilidade. 
 
 - Modelo 3D: https://a360.co/4xRilnh
 
 
-
 ## Função
-
 
 **Como se brinca?**
 
@@ -72,15 +64,11 @@ O design modular do Libi foi desenvolvido no **AutoDesk Fusion 360** para maqui
 
 A atividade pode ser explorada de duas formas, **individualmente ou em grupo**, podendo-se tornar num jogo onde cada jogador adiciona uma peça à vez na estrutura partilhada. O objetivo é manter o conjunto estável, perdendo quem colocar a libelinha que cause a queda da estrutura.
 
-
-
 **Idade-Alvo**
 
 Classificação etária recomendada: A partir dos 5 anos **(5+)**.
 
 Embora o design não apresente perigo de asfixia, o brinquedo exige um nível de coordenação motora, controlo da pressão palmar e paciência que só se desenvolvem plenamente a partir desta idade. Adicionalmente, o conceito de tentativa-erro associado à física elementar é melhor aproveitado por crianças em idade escolar. 
-
-
 
 **Montagem**
 
@@ -88,9 +76,7 @@ Dificuldade: Nenhuma (sem montagem prévia).
 
 Especificações: O produto é classificado como monobloco pronto a brincar. Não requer ferramentas, encaixes e instruções complexas. A "montagem" é a própria essência lúdica do brinquedo, sendo feita e desfeita infinitamente pelo utilizador. 
 
-
-
-Conformidade com a Diretiva 2009/48/CE
+**Conformidade com a Diretiva 2009/48/CE**
 
 Para garantir que o projeto é viável no mercado europeu, o design cumpre os requisitos essenciais da diretiva:
 
@@ -104,9 +90,7 @@ Para garantir que o projeto é viável no mercado europeu, o design cumpre os re
 **Propriedades Químicas (Anexo II, Parte III)**: Como o brinquedo aproveita excedentes industriais, o projeto especifica que as peças finais devem ser limpas de resíduos tóxicos e acabadas apenas com óleos vegetais naturais ou ceras de abelha com certificação EN 71-3 (isenção de metais pesados e formaldeídos), tornando o brinquedo seguro mesmo em caso de contacto bocal esporádico. 
 
 
-
 ## Apresentação
-
 
 ![](attachments/ooooo%203.jpg)
 
@@ -115,6 +99,7 @@ Imagem gerada pelo Gemini.google (Render a baixo utilizado)
 ![](attachments/render1%201.jpg)
 
 Render no Auto Desk Fusion 360
+
 
 ---
 

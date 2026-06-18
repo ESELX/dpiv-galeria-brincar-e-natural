@@ -15,9 +15,7 @@ published: true
 # Processo
 
 
-
 ## 1. Renders
-
 
 ![](attachments/WhatsApp%20Image%202026-06-18%20at%2005.28.40%20(2).jpeg)
 
@@ -36,12 +34,9 @@ Render 3 BeeZZy - AutoDesk Fusion 360
 Render 4 BeeZZy - AutoDesk Fusion 360
 
 
-
 ## 2. Modelos 3D
 
-
 https://a360.co/3QKrs8m
-
 
 
 ## 3. Esboços e Pranchas-Resumo
@@ -49,6 +44,7 @@ https://a360.co/3QKrs8m
 ![](attachments/WhatsApp%20Image%202026-06-17%20at%2023.39.25.jpeg)
 
 Prancha-resumo BeeZZy (com os esboços)
+
 
 ## 4. Pesquisa
 

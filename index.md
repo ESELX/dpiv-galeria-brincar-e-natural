@@ -17,7 +17,10 @@ group_number: ""
 
 # Brincar é Natural
 
+
 > Um ecossistema de brincadeira Eco-lógico inspirado pela Natureza e pensado para todos. 
+
+
 ## Elementos do Grupo
 
 | Número  | Nome             |
@@ -27,17 +30,19 @@ group_number: ""
 | 2024301 | Mariana Rocha    |
 | 2024299 | Adrielly Saraiva |
 
+
 ---
 
-## Contexto de Design
-![](attachments/placeholder.png)
-> Nesta zona pretenderão mostrar o que relaciona estes produtos que apresentam na galeria - a temática, conceito comum, objectivos comuns, brincadeiras (funções) comuns, entre outros...
 
-(devem colocar imagens no corpo a qq momento, bastará que as arrastem para aqui.)
+## Contexto de Design
+
+![](attachments/Gemini_Generated_Image_6xmu8f6xmu8f6xmu.png)
+
 
 Resumo, referências coletivas e moodboard do grupo encontram-se em [contexto.md](contexto.md).
 
 [Ver contexto completo →](contexto.md)
+
 
 ---
 
