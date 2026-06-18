@@ -51,7 +51,7 @@ A prancha responde ao nosso objetivo pedagógico de afastar as crianças dos ecr
 
 Todo o modelo foi desenvolvido no **Autodesk Fusion 360** e pensado para ser fabricado com corte **CNC**. 
 
-Em relação aos materiais, o design foi pensado para ser flexível e inteligente. A prancha pode ser fabricada a partir de **qualquer espécie de madeira com 20 mm de espessura**, desde que seja uma madeira  resistente o suficiente para aguentar o peso de uma criança ou de um adulto (ex: contraplacado de bétula, o pinho ou o carvalho). Esta liberdade na escolha da madeira espelha muito bem o objetivo do projeto Nestor, já que o software industrial pode aproveitar qualquer sobra de placa com essa espessura que esteja disponível na fábrica.
+Em relação aos materiais, o design foi pensado para ser flexível e inteligente. A prancha pode ser fabricada a partir de **qualquer espécie de madeira com 20 mm de espessura**, desde que seja uma madeira  resistente o suficiente para aguentar o peso de uma criança ou de um adulto (ex: contraplacado de bétula, pinho ou de carvalho). Esta liberdade na escolha da madeira espelha muito bem o objetivo do projeto Nestor, já que o software industrial pode aproveitar qualquer sobra de placa com essa espessura que esteja disponível na fábrica.
 
 - Modelo 3D: https://a360.co/4uLI2CP
 
