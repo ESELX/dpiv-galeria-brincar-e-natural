@@ -55,7 +55,7 @@ O produto foi feito no software de modelação 3D Fusion 360, para a construçã
 
 A fabricação das peças foi executada através de tecnologia CNC.
 
-https://a360.co/4uGl67N
+- Modelo 3D: https://a360.co/4uGl67N
 
 ## Função
 

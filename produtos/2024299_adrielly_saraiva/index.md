@@ -16,6 +16,7 @@ student_number: ""
 
 # BeeZzy
 
+![](attachments/WhatsApp%20Image%202026-06-18%20at%2004.56.20.jpeg)
 
 > Um jogo do galo em madeira inspirado no universo das abelhas, que combina diversão, criatividade e sustentabilidade.
 
@@ -63,8 +64,7 @@ O desenvolvimento do produto foi realizado no software de modelação 3D Fusion 
   
   A fabricação das peças foi executada através de tecnologia CNC, garantindo precisão nos cortes e consistência no resultado final. O produto foi produzido maioritariamente em MDF com 14 mm de espessura, sendo que apenas a zona de encaixe das peças das abelhas foi feita em MDF de 16 mm, de forma a assegurar melhor estabilidade e ajuste entre os elementos.
 
-- Modelo 3D: <!-- embed Fusion ou link a360.co -->
-- Ficheiros: `attachments/`
+- Modelo 3D: https://a360.co/3QKrs8m
 
 
 
@@ -86,7 +86,15 @@ O produto foi desenvolvido de acordo com os princípios da Diretiva Europeia 200
 
 ## Apresentação
 
-![](attachments/WhatsApp%20Image%202026-06-18%20at%2004.56.20.jpeg)
+![](attachments/WhatsApp%20Image%202026-06-18%20at%2019.19.46%20(1).jpeg)
+
+
+![](attachments/WhatsApp%20Image%202026-06-18%20at%2019.19.46%201.jpeg)
+
+
+![](attachments/WhatsApp%20Image%202026-06-18%20at%2019.20.08%201.jpeg)
+
+
 
 ---
 

@@ -16,22 +16,26 @@ student_number: ""
 
 # Quil
 
-<!--
-  HERO: idealmente uma pseudo-sessão fotográfica do produto
-  (ver tutorial Pletor.ai nos Recursos da disciplina, em
-  /Recursos/AI_exps/). Usa attachments/hero.jpg para o frontmatter.
--->
-
 > Quillll
 
-A página deve tornar **visualmente percetível** a estratégia de resposta ao enunciado.
-Segue a estrutura de **prancha-resumo** + **esquema-base** (C-E-T-F).
 
 ## Conceito
 
-Ideia central do produto. O que é, para quem, porquê.
 
-![](attachments/placeholder.png)
+**O que é?**
+
+Esta prancha de equilíbrio é um objeto composto por apenas três peças de madeira que se encaixam sem precisar de qualquer prego, parafuso ou cola. O brinquedo é formado por uma plataforma superior com uma silhueta floral e duas peças curvas inferiores que se cruzam para criar o ponto de balanço. Desenhada para o fabrico digital em CNC, a prancha aproveita ao máximo a precisão dos encaixes puros por fricção, resultando num produto funcional e fácil de montar e desmontar.
+
+**Para quem?**
+
+O projeto foi pensado para crianças em idade escolar (a partir dos 5 anos), faixa etária em que estão a desenvolver a sua coordenação e agilidade, mas estende-se também a jovens e adultos. É o brinquedo ideal para quem precisa de trabalhar o foco, a postura e a concentração através do corpo, servindo tanto para momentos de exploração individual e livre como para dinâmicas de grupo divertidas.
+
+**Porquê?**
+
+A prancha responde diretamente aos valores de sustentabilidade da proposta Nestor e ao conceito de ciclo natural que guia o nosso grupo. Em primeiro lugar, o seu design plano e modular foi planeado para aproveitar de forma inteligente os excedentes de placas de madeira da indústria de mobiliário, reduzindo o desperdício. Em segundo lugar, a sua forma orgânica, inspirada nas geometrias de uma flor e ao mesmo tempo o Sol traz a biofilia para o campo do movimento físico.
+
+
+![](attachments/WhatsApp%20Image%202026-06-18%20at%2016.28.04.jpeg)
 
 ## Enquadramento
 
@@ -41,8 +45,7 @@ Posicionamento em relação ao contexto de grupo (ver [contexto](../../contexto.
 
 Materiais (espécie de madeira), processos de fabrico (CNC, laser, impressão 3D), software paramétrico, ficheiros técnicos.
 
-- Modelo 3D: <!-- embed Fusion ou link a360.co -->
-- Ficheiros: `attachments/`
+- Modelo 3D: https://a360.co/4uLI2CP
 
 ## Função
 
@@ -50,10 +53,12 @@ Como se brinca, idade-alvo, montagem, conformidade com a Diretiva 2009/48/CE.
 
 ## Apresentação
 
-Imagens-chave que sintetizam o produto final.
+![](attachments/Texto%20do%20seu%20parágrafo.pdf.png)
 
-![](attachments/placeholder.png)
-![](attachments/placeholder.png)
+
+![](attachments/Imagem%201.png)
+
+
 
 ---
 
