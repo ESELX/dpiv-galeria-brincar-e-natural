@@ -45,6 +45,9 @@ From an educational perspective, this focus on nature distances the project from
 ![](attachments/acrobots-wooden-stacking-balancing-toys-1000x1000.jpg)
 
 - **Objeto 1** — AcroBots - OPA Toys, India. O objeto foi escolhido para um redesenho devido à sua vertente forte de "brincadeira", é um brinquedo que mostra trabalhar o cérebro e ao mesmo tempo ser prazeroso e divertido. Tem um desenho simples que pode ser facilmente alterado. 
+
+
+
 - **Objeto 2** — ...
 
 ### 2.2. Moodboard

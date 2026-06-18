@@ -41,9 +41,9 @@ Libi tem como publico-alvo crianças com idade escolar (a partir dos 5 anos) e t
 - Mostra que a geometria orgânica inspirada na natureza pode gerar estabilidade estrutural complexa através de regras físicas simples.
 
 
-![](attachments/placeholder.png)
+![](attachments/prancharesumo.png)
 
-
+Prancha-resumo do projeto Libi.
 
 ## Enquadramento
 
@@ -108,12 +108,13 @@ Para garantir que o projeto é viável no mercado europeu, o design cumpre os re
 ## Apresentação
 
 
-![](attachments/prancharesumo.png)
-
-
 ![](attachments/ooooo%203.jpg)
 
+Imagem gerada pelo Gemini.google (Render a baixo utilizado)
 
+![](attachments/render1%201.jpg)
+
+Render no Auto Desk Fusion 360
 
 ---
 

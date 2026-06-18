@@ -38,8 +38,7 @@ Foi pensado para crianças e utilizadores em contexto familiar ou educativo, fun
 
 O projeto nasce da intenção de dar uma nova vida a restos de madeira, transformando-os num objeto lúdico com valor educativo e ambiental. A temática das abelhas reforça a ligação à natureza e torna o jogo mais distintivo, promovendo simultaneamente sustentabilidade e aprendizagem através da brincadeira.
 
-
-![](attachments/placeholder.png)
+![](attachments/WhatsApp%20Image%202026-06-18%20at%2005.27.46.jpeg)
 
 
 
@@ -87,7 +86,7 @@ O produto foi desenvolvido de acordo com os princípios da Diretiva Europeia 200
 
 ## Apresentação
 
-
+![](attachments/WhatsApp%20Image%202026-06-18%20at%2004.56.20.jpeg)
 
 ---
 

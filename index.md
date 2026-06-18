@@ -59,12 +59,12 @@ Resumo, referências coletivas e moodboard do grupo encontram-se em [contexto.md
     <h3>Quil</h3>
     <p>Sebastião Abreu</p>
   </a>
-  <a class="gallery-card" href="produtos/_modelo/">
-    <img src="produtos/_modelo/attachments/hero.jpg" alt="" />
-    <h3>Nome do Produto</h3>
+  <a class="gallery-card" href="produtos/2024301_mariana_rocha/index.md">
+    <img src="produtos/2024301_mariana_rocha/attachments/hero.jpg" alt="" />
+    <h3>Comb-In</h3>
     <p>Mariana Rocha</p>
   </a>
-  <a class="gallery-card" href="produtos/2024299_adrielly_saraiva/index.md/">
+  <a class="gallery-card" href="produtos/2024299_adrielly_saraiva/index.md">
     <img src="produtos/2024299_adrielly_saraiva/attachments/hero.jpg" alt="" />
     <h3>BeeZzy</h3>
     <p>Adrielly Silva</p>

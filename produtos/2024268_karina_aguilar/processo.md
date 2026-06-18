@@ -151,14 +151,20 @@ Esboço 15 - Exploração de ângulos de corte
 
 ### 6.1. Aspectos valorizados do moodboard, desconstrução da forma (o que distingue o programa formal)
 
-Foi valorizado um desenho mais orgânico 
+Foi valorizado um desenho mais orgânico mas figurativo presente nas inspirações visuais da prancha Moodboard geral do projeto. Para além disso houve uma inspiração única numa imagem a negativo de uma libelinha retirada do website Cosmos para a percepção correta das formas da libelinha que o projeto queria abordar.   
+
+![](attachments/libelinha.png)
+
+https://www.cosmos.so/e/1155043978
 
 ### 6.2. Objetos de referência
 
-Inventário de precedentes, brinquedos análogos, referências históricas.
+![](attachments/acrobots-wooden-stacking-balancing-toys-1000x1000.jpg)
 
-![](attachments/placeholder.png)
+https://opatoys.com
 
 ## 7. Outros Elementos
 
-Outros materiais relevantes para a preparação do conceito (entrevistas, observação, testes com utilizadores, notas, leituras, inspirações).
+_"A natureza não faz nada em vão, nem nada que seja supérfluo."_ — **Aristóteles**, _De Caelo_, Livro 1, Capítulo 4. 
+
+(No mundo natural, tudo tem uma razão de ser, uma função e um sentido de sobrevivência). 
