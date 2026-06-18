@@ -85,6 +85,10 @@ Prancha-resumo final
 
 Ilustração da brincadeira com Quill
 
+![](attachments/Gemini_Generated_Image_ptrcjvptrcjvptrc.png)
+
+Imagem gerada pela Gemini.google
+
 
 ---
 
