@@ -16,7 +16,7 @@ student_number: ""
 
 # Libi
 
-> Um sistema de libelinhas monobloco paramétricas que desafia a atenção e a concentração através do equilíbrio gravítico passivo e de livre combinação. 
+> Gravidade em ciclo. 
 
 
 ## Conceito
