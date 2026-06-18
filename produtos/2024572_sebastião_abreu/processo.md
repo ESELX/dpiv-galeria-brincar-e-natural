@@ -19,7 +19,7 @@ published: true
 
 ![](attachments/proj_sabas_2026-May-29_03-20-01AM-000_CustomizedView35497521699.jpg)
 
-Render Quill - **AutoDesk Fusion 360**
+Render Quill - **Brinquedo desmontado** - Vista explodida- **AutoDesk Fusion 360**
 
 
 ## 2. Modelos 3D
@@ -37,23 +37,35 @@ https://a360.co/3Qq6Mm2
 
 ## 3. Esboços e Pranchas-Resumo
 
+Na fase inicial de esboços foi escolhido trabalhar com a forma de uma borboleta, acabou por se chegar à conclusão que esta forma não era a melhor geometria para uma possível prancha de equilíbrio infantil então explorei novas formas que compactuassem melhor com o projeto Quill.
 
+![](attachments/Scanner_20260618%20(16).jpg)
 
+Esboço final da forma
 
+![](attachments/Scanner_20260618%20(15).jpg)
 
+Exploração da 2ª forma
 
+![](attachments/Scanner_20260618%20(14).jpg)
 
+Exploração da 2ª forma
 
+![](attachments/Scanner_20260618%20(13).jpg)
 
+Exploração da 2ª forma
 
 ![](attachments/nestor3.jpg)
 
 1º Prancha-resumo 
 
+![](attachments/Scanner_20260618%20(18).jpg)
 
+Exploração da 1ª forma
 
+![](attachments/Scanner_20260618%20(17).jpg)
 
-
+Exploração da 1ª forma
 
 
 ## 4. Pesquisa
