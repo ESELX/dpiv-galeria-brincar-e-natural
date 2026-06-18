@@ -16,7 +16,7 @@ student_number: ""
 
 # Quil
 
-> Equilíbrio através na Natureza. 
+> Equilíbrio através da Natureza. 
 
 
 ## Conceito
